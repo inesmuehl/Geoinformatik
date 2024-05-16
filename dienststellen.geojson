@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "dienststellen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "BBK Braunau", "Address": "Hammersteinplatz 5, 5280 Braunau am Inn", "Latitude": 48.2565, "Longitude": 13.0452 }, "geometry": { "type": "Point", "coordinates": [ 13.0452, 48.2565 ] } },
+{ "type": "Feature", "properties": { "Name": "BBK Eferding Grieskirchen Wels", "Address": "Rennbahnstraße 15, 4600 Wels", "Latitude": 48.1572, "Longitude": 14.0283 }, "geometry": { "type": "Point", "coordinates": [ 14.0283, 48.1572 ] } },
+{ "type": "Feature", "properties": { "Name": "BBK Freistadt Perg", "Address": "Softwarepark 112, 4232 Hagenberg", "Latitude": 48.3687, "Longitude": 14.5147 }, "geometry": { "type": "Point", "coordinates": [ 14.5147, 48.3687 ] } },
+{ "type": "Feature", "properties": { "Name": "BBK Gmunden Vöcklabruck", "Address": "Sportplatzstraße 7, 4840 Vöcklabruck", "Latitude": 47.9766, "Longitude": 13.6268 }, "geometry": { "type": "Point", "coordinates": [ 13.6268, 47.9766 ] } },
+{ "type": "Feature", "properties": { "Name": "BBK Kirchdorf Steyr", "Address": "Holzhaus 1b, 4541 Adlwang", "Latitude": 48.0086, "Longitude": 14.2569 }, "geometry": { "type": "Point", "coordinates": [ 14.2569, 48.0086 ] } },
+{ "type": "Feature", "properties": { "Name": "BBK Linz Urfahr", "Address": "Auf der Gugl 3, 4021 Linz", "Latitude": 48.3032, "Longitude": 14.2903 }, "geometry": { "type": "Point", "coordinates": [ 14.2903, 48.3032 ] } },
+{ "type": "Feature", "properties": { "Name": "BBK Ried Schärding", "Address": "Volksfestplatz 1, 4910 Ried im Innkreis", "Latitude": 48.2115, "Longitude": 13.4905 }, "geometry": { "type": "Point", "coordinates": [ 13.4905, 48.2115 ] } },
+{ "type": "Feature", "properties": { "Name": "BBK Rohrbach", "Address": "Linzer Straße 13, 4150 Rohrbach", "Latitude": 48.5832, "Longitude": 13.9865 }, "geometry": { "type": "Point", "coordinates": [ 13.9865, 48.5832 ] } }
+]
+}
