@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Landwirtschaftskammer Burgenland", "Address": "Burgenlandstraße 2, 7000 Eisenstadt", "Latitude": 47.8456, "Longitude": 16.5333 }, "geometry": { "type": "Point", "coordinates": [ 16.5333, 47.8456 ] } }
+]
+}

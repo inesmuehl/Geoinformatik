@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Bezirksbauernkammer Hallein", "Address": "Davisstraße 16, 5400 Hallein", "Latitude": 47.6808476, "Longitude": 13.09896785 }, "geometry": { "type": "Point", "coordinates": [ 13.09896785, 47.6808476 ] } },
+{ "type": "Feature", "properties": { "Name": "Bezirksbauernkammer Salzburg", "Address": "Kleßheimer Str. 8, 5071 Wals-Siezenheim", "Latitude": 47.81838185, "Longitude": 12.98941137 }, "geometry": { "type": "Point", "coordinates": [ 12.98941137, 47.81838185 ] } },
+{ "type": "Feature", "properties": { "Name": "Bezirksbauernkammer St.Johann", "Address": "Ing. Ludwig Pech Strasse 14, 5600 St. Johann im Pongau", "Latitude": 47.35000344, "Longitude": 13.20119375 }, "geometry": { "type": "Point", "coordinates": [ 13.20119375, 47.35000344 ] } },
+{ "type": "Feature", "properties": { "Name": "Bezirksbauernkammer Tamsweg", "Address": "Amtsgasse 8, 5580 Tamsweg", "Latitude": 47.12597158, "Longitude": 13.81192885 }, "geometry": { "type": "Point", "coordinates": [ 13.81192885, 47.12597158 ] } },
+{ "type": "Feature", "properties": { "Name": "Bezirksbauernkammer Zell am See", "Address": "Mayerhoferstraße 8, 5751 Maishofen", "Latitude": 47.35938067, "Longitude": 12.80710876 }, "geometry": { "type": "Point", "coordinates": [ 12.80710876, 47.35938067 ] } }
+]
+}

@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Bezirkslandwirtschaftskammer Kitzbühel", "Address": "Innsbruckerstraße 77, 6380 St. Johann in Tirol", "Latitude": 47.521879207505002, "Longitude": 12.4051242328191 }, "geometry": { "type": "Point", "coordinates": [ 12.4051242328191, 47.521879207505002 ] } },
+{ "type": "Feature", "properties": { "Name": "Bezirkslandwirtschaftskammer Kufstein", "Address": "Egerndorf 6, 6300 Wörgl", "Latitude": 47.490158115941, "Longitude": 12.0842729798722 }, "geometry": { "type": "Point", "coordinates": [ 12.0842729798722, 47.490158115941 ] } },
+{ "type": "Feature", "properties": { "Name": "Bezirkslandwirtschaftskammer Imst", "Address": "Brennbichl 53, 6460 Gemeinde Imst", "Latitude": 47.222371185042199, "Longitude": 10.7460522717389 }, "geometry": { "type": "Point", "coordinates": [ 10.7460522717389, 47.222371185042199 ] } },
+{ "type": "Feature", "properties": { "Name": "Bezirkslandwirtschaftskammer Innsbruck", "Address": "Brixner Str. 1, 6020 Innsbruck", "Latitude": 47.265210002022997, "Longitude": 11.3992446969231 }, "geometry": { "type": "Point", "coordinates": [ 11.3992446969231, 47.265210002022997 ] } },
+{ "type": "Feature", "properties": { "Name": "Bezirkslandwirtschaftskammer Landeck", "Address": "Schentensteig 2, 6500 Landeck", "Latitude": 47.137785892091898, "Longitude": 10.564836822408401 }, "geometry": { "type": "Point", "coordinates": [ 10.564836822408401, 47.137785892091898 ] } },
+{ "type": "Feature", "properties": { "Name": "Bezirkslandwirtschaftskammer Lienz", "Address": "Friedrich-Wilhelm-Raiffeisen-Straße 2, 9900 Lienz", "Latitude": 46.8292126909461, "Longitude": 12.7902073619923 }, "geometry": { "type": "Point", "coordinates": [ 12.7902073619923, 46.8292126909461 ] } },
+{ "type": "Feature", "properties": { "Name": "Bezirkslandwirtschaftskammer Reutte", "Address": "Bahnhofstraße 15, 6600 Gemeinde Reutte", "Latitude": 47.493285268875702, "Longitude": 10.720065441442999 }, "geometry": { "type": "Point", "coordinates": [ 10.720065441442999, 47.493285268875702 ] } },
+{ "type": "Feature", "properties": { "Name": "Bezirkslandwirtschaftskammer Schwaz", "Address": "Rotholz 50, 6220 Rotholz", "Latitude": 47.3903285516338, "Longitude": 11.7988956676716 }, "geometry": { "type": "Point", "coordinates": [ 11.7988956676716, 47.3903285516338 ] } }
+]
+}
