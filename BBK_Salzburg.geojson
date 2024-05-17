@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BBK_Salzburg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Bezirksbauernkammer Hallein", "Addresse": "Davisstraße 16, 5400 Hallein", "Tel": "050 2595-2000", "E-Mail": "bbk-hallein@lk-salzburg.at", "Fax": "", "latitude": 47.6808476, "longitude": 13.09896785, "wkt ": "Point" }, "geometry": { "type": "Point", "coordinates": [ 13.09896785, 47.6808476 ] } },
+{ "type": "Feature", "properties": { "Name": "Bezirksbauernkammer Salzburg", "Addresse": "Kleßheimer Str. 8, 5071 Wals-Siezenheim", "Tel": "0502595-1500", "E-Mail": "bbk-salzburg@lk-salzburg.at", "Fax": "", "latitude": 47.81838185, "longitude": 12.98941137, "wkt ": "Point" }, "geometry": { "type": "Point", "coordinates": [ 12.98941137, 47.81838185 ] } },
+{ "type": "Feature", "properties": { "Name": "Bezirksbauernkammer St.Johann", "Addresse": "Ing. Ludwig Pech Strasse 14, 5600 St. Johann im Pongau", "Tel": "06412\/4277", "E-Mail": "bbk-stjohann@lk-salzburg.at", "Fax": "06412\/4277-583", "latitude": 47.35000344, "longitude": 13.20119375, "wkt ": "Point" }, "geometry": { "type": "Point", "coordinates": [ 13.20119375, 47.35000344 ] } },
+{ "type": "Feature", "properties": { "Name": "Bezirksbauernkammer Tamsweg", "Addresse": "Amtsgasse 8, 5580 Tamsweg", "Tel": "06474\/2219 ", "E-Mail": "bbk-tamsweg@lk-salzburg.at", "Fax": "06474\/2219-553", "latitude": 47.12597158, "longitude": 13.81192885, "wkt ": "Point" }, "geometry": { "type": "Point", "coordinates": [ 13.81192885, 47.12597158 ] } },
+{ "type": "Feature", "properties": { "Name": "Bezirksbauernkammer Zell am See", "Addresse": "Mayerhoferstraße 8, 5751 Maishofen", "Tel": "06542\/72393", "E-Mail": "bbk-zell@lk-salzburg.at", "Fax": "06542\/72393-573", "latitude": 47.35938067, "longitude": 12.80710876, "wkt ": "Point" }, "geometry": { "type": "Point", "coordinates": [ 12.80710876, 47.35938067 ] } }
+]
+}
