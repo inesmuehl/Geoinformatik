@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Amstetten",
+                "Address": "Kaspar-Brunner-Straße 18, 3300 Amstetten",
+                "Latitude": 48.1228,
+                "Longitude": 14.8721
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8721,
+                    48.1228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Waidhofen/Ybbs",
+                "Address": "Kapuzinergasse 9, 3340 Waidhofen/Ybbs",
+                "Latitude": 47.9594,
+                "Longitude": 14.7706
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7706,
+                    47.9594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammern Baden und Mödling",
+                "Address": "Pfaffstättner Straße 3, 2500 Baden",
+                "Latitude": 48.0045,
+                "Longitude": 16.2309
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2309,
+                    48.0045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Bruck/Leitha-Schwechat",
+                "Address": "Raiffeisengürtel 27, 2460 Bruck/Leitha",
+                "Latitude": 48.0171,
+                "Longitude": 16.7777
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7777,
+                    48.0171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Gmünd",
+                "Address": "Bahnhofstraße 12, 3950 Gmünd",
+                "Latitude": 48.7642,
+                "Longitude": 14.9787
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9787,
+                    48.7642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Zwettl",
+                "Address": "Pater Werner Deibl-Straße 8, 3910 Zwettl",
+                "Latitude": 48.6177,
+                "Longitude": 15.1981
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1981,
+                    48.6177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Gänserndorf",
+                "Address": "Hauptstraße 8, 2230 Gänserndorf",
+                "Latitude": 48.3445,
+                "Longitude": 16.7195
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7195,
+                    48.3445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Mistelbach",
+                "Address": "Karl-Katschthaler-Straße 1, 2130 Mistelbach",
+                "Latitude": 48.5703,
+                "Longitude": 16.5745
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5745,
+                    48.5703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Hollabrunn",
+                "Address": "Sonnleitenweg 2a, 2020 Hollabrunn",
+                "Latitude": 48.5547,
+                "Longitude": 16.0773
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0773,
+                    48.5547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Korneuburg",
+                "Address": "Leobendorferstraße 74, 2100 Korneuburg",
+                "Latitude": 48.3557,
+                "Longitude": 16.3332
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3332,
+                    48.3557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Horn",
+                "Address": "Mold 72, 3580 Horn",
+                "Latitude": 48.6661,
+                "Longitude": 15.6527
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6527,
+                    48.6661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Waidhofen/Thaya",
+                "Address": "Raiffeisenpromenade 2/1/2, 3830 Waidhofen/Thaya",
+                "Latitude": 48.8152,
+                "Longitude": 15.2834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2834,
+                    48.8152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Krems",
+                "Address": "Sigleithenstraße 50, 3500 Krems",
+                "Latitude": 48.4233,
+                "Longitude": 15.6343
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6343,
+                    48.4233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Tullnerfeld",
+                "Address": "Frauentorgasse 76, 3430 Tulln",
+                "Latitude": 48.3292,
+                "Longitude": 16.0593
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0593,
+                    48.3292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Lilienfeld",
+                "Address": "Babenbergerstraße 30, 3180 Lilienfeld",
+                "Latitude": 48.0165,
+                "Longitude": 15.6019
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6019,
+                    48.0165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer St. Pölten",
+                "Address": "Linzerstraße 76, 3100 St. Pölten",
+                "Latitude": 48.2035,
+                "Longitude": 15.6233
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6233,
+                    48.2035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Melk",
+                "Address": "Abt Karlstraße 19, 3390 Melk/Donau",
+                "Latitude": 48.2297,
+                "Longitude": 15.3395
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3395,
+                    48.2297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Scheibbs",
+                "Address": "Kapuzinerplatz 4, 3270 Scheibbs",
+                "Latitude": 48.0072,
+                "Longitude": 15.1675
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1675,
+                    48.0072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Neunkirchen",
+                "Address": "Triesterstraße 14, 2620 Neunkirchen",
+                "Latitude": 47.7218,
+                "Longitude": 16.0815
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0815,
+                    47.7218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bezirksbauernkammer Wr. Neustadt",
+                "Address": "Siegfried Theiss-Straße 9, 2700 Wr. Neustadt",
+                "Latitude": 47.8156,
+                "Longitude": 16.2426
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2426,
+                    47.8156
+                ]
+            }
+        }
+    ]
+}
